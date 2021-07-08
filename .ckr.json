@@ -1,0 +1,10 @@
+{
+  "data_uoa": "ck-mlperf-inference",
+  "data_uid": "4249a4e3499dfc2d",
+  "data_alias": "ck-mlperf-inference",
+  "data_name": "ck-mlperf-inference",
+  "dict": {
+    "shared": "git",
+    "url": "https://github.com/ctuning/ck-mlperf-inference"
+  }
+}
