@@ -1,0 +1,49 @@
+{
+  "desc": {
+    "compilers": "gcc version 7.3.1 ",
+    "division": "closed",
+    "filesystem": "xfs",
+    "framework": "PyTorch",
+    "hardware": "1-node 4x Intel(R) Xeon(R) Platinum 8255C processor",
+    "host_memory_capacity": "768GB",
+    "host_networking": "NA",
+    "host_networking_topology": "NA",
+    "host_processor_model_name": "Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz",
+    "host_processors_core_count": "24",
+    "host_processors_frequency": "2.50GHz",
+    "host_processors_interconnect": "UPI",
+    "host_processors_per_node": "4",
+    "host_processors_thread_count": "96",
+    "host_storage_capacity": "422GB",
+    "host_storage_type": "SSD",
+    "interconnect": "NA",
+    "libraries": "MKL (v2019.4.243)",
+    "math_libraries": "MKL (2019.4.243)",
+    "ml_libraries": "Deep Learning Math Kernel Research(Euler) v0.0.3",
+    "nodes": [
+      {
+        "accelerator": "NA",
+        "cpu": "Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz",
+        "cpu_accel_interconnect": "NA",
+        "network_card": "NA",
+        "notes": "NA",
+        "num_accelerators": 0,
+        "num_cores": 96,
+        "num_network_cards": 1,
+        "num_nodes": 1,
+        "num_vcpus": "NA",
+        "sys_mem_size": "768GB",
+        "sys_storage_size": "422GB",
+        "sys_storage_type": "SSD"
+      }
+    ],
+    "notes": "none",
+    "number of nodes": "1",
+    "operating_system": "CentOS Linux release 7.6.1810",
+    "power": "none",
+    "python_version": "3.6.8",
+    "status": "preview",
+    "sumitter": "Tencent_Corp",
+    "system_name": "CLX-8255C-4S"
+  }
+}

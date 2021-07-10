@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "5eb14ec0644e6ead",
+  "backup_module_uid": "4cd2850867df4241",
+  "backup_module_uoa": "result",
+  "control": {
+    "engine": "CK",
+    "iso_datetime": "2021-07-10T18:42:42.011992",
+    "version": [
+      "2",
+      "5",
+      "7"
+    ]
+  },
+  "data_name": "mlperf-inference-all-object-detection-datacenter-singlestream-pareto"
+}

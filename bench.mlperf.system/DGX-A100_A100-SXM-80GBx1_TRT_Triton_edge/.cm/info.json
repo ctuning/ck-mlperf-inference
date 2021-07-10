@@ -1,0 +1,6 @@
+{
+  "backup_data_uid": "45bcea2795ffef28",
+  "backup_module_uid": "4edfa6cce73e7297",
+  "backup_module_uoa": "bench.mlperf.system",
+  "data_name": "DGX-A100_A100-SXM-80GBx1_TRT_Triton_edge"
+}

@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "c4637aba2b0a13dd",
+  "backup_module_uid": "e6a349d5bb2efa09",
+  "backup_module_uoa": "bench.mlperf.submitter",
+  "control": {
+    "engine": "CK",
+    "iso_datetime": "2021-07-10T18:42:56.540828",
+    "version": [
+      "2",
+      "5",
+      "7"
+    ]
+  },
+  "data_name": "Alibaba"
+}

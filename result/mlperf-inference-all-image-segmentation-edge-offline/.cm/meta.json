@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "bench",
+    "mlperf",
+    "inference",
+    "mlperf-inference",
+    "all",
+    "image-segmentation",
+    "edge",
+    "offline",
+    "raw"
+  ]
+}

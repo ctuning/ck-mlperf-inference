@@ -1,0 +1,6 @@
+{
+  "mlperf_inference_versions": [
+    "v1.0",
+    "v0.7"
+  ]
+}

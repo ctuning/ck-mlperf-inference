@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "79e70462575a6857",
+  "backup_module_uid": "e6a349d5bb2efa09",
+  "backup_module_uoa": "bench.mlperf.submitter",
+  "control": {
+    "engine": "CK",
+    "iso_datetime": "2021-07-10T18:42:56.459115",
+    "version": [
+      "2",
+      "5",
+      "7"
+    ]
+  },
+  "data_name": "Qualcomm"
+}

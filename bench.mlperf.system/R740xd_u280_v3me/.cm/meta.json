@@ -1,0 +1,23 @@
+{
+  "desc": {
+    "accelerator_memory_capacity": "16 GB per accelerator",
+    "accelerator_memory_configuration": "HBM",
+    "accelerator_model_name": "xilinx_u280_v3me",
+    "accelerators_per_node": 1,
+    "division": "open",
+    "framework": "TF",
+    "host_memory_capacity": "7680 GB",
+    "host_processor_core_count": 28,
+    "host_processor_model_name": "Intel Xeon Platinum 8276",
+    "host_processors_per_node": 2,
+    "host_storage_capacity": "21.42 GB",
+    "host_storage_type": "HDD",
+    "number_of_nodes": 1,
+    "operating_system": "Ubuntu 18.04",
+    "other_software_stack": "Xilinx Vitis Runtime",
+    "status": "available",
+    "submitter": "DellEMC",
+    "system_name": "R740xd_u280_v3me",
+    "system_type": "edge"
+  }
+}

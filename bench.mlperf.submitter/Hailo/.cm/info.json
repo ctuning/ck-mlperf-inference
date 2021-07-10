@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "004d6d9812a7df4a",
+  "backup_module_uid": "e6a349d5bb2efa09",
+  "backup_module_uoa": "bench.mlperf.submitter",
+  "control": {
+    "engine": "CK",
+    "iso_datetime": "2021-07-10T18:42:58.254156",
+    "version": [
+      "2",
+      "5",
+      "7"
+    ]
+  },
+  "data_name": "Hailo"
+}
