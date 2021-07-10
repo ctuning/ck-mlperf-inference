@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "info": " ",
+    "scenario": "universal",
+    "scenario_uid": "3bf7371412455a8f",
+    "title": "MLPerf&trade; inference benchmark; object detection; edge; offline",
+    "viz_engine": "ck_beta"
+  },
+  "source": "MLPerf&trade; inference benchmark; object detection; edge; offline",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "object-detection",
+    "edge",
+    "offline",
+    "raw"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "info": " ",
+    "scenario": "universal",
+    "scenario_uid": "3bf7371412455a8f",
+    "title": "MLPerf&trade; inference benchmark; object detection; edge; singlestream (Pareto per submitter)",
+    "viz_engine": "ck_beta"
+  },
+  "source": "MLPerf&trade; inference benchmark; object detection; edge; singlestream (Pareto per submitter)",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "object-detection",
+    "edge",
+    "singlestream",
+    "pareto"
+  ]
+}

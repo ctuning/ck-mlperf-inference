@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "info": " ",
+    "scenario": "universal",
+    "scenario_uid": "3bf7371412455a8f",
+    "title": "MLPerf&trade; inference benchmark; recommendation; datacenter; server",
+    "viz_engine": "ck_beta"
+  },
+  "source": "MLPerf&trade; inference benchmark; recommendation; datacenter; server",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "recommendation",
+    "datacenter",
+    "server",
+    "raw"
+  ]
+}

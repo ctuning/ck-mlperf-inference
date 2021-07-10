@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "info": " ",
+    "scenario": "universal",
+    "scenario_uid": "3bf7371412455a8f",
+    "title": "MLPerf&trade; inference benchmark; image classification; datacenter; multistream",
+    "viz_engine": "ck_beta"
+  },
+  "source": "MLPerf&trade; inference benchmark; image classification; datacenter; multistream",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "image-classification",
+    "datacenter",
+    "multistream",
+    "raw"
+  ]
+}
